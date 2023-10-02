@@ -35,3 +35,10 @@ body {
   flex:0 0 100%;
   
 }
+
+.extrastijl{
+  border-radius: 28px;
+background: #37899b;
+box-shadow: inset -8px 8px 15px #6cb3b4,
+            inset 8px -8px 15px #5497a0;
+}
